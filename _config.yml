@@ -1,15 +1,15 @@
 # User config
-author: "Pineapple"
-tagline: "Pineapple Certfied Jekyll Theme"
-description: "In 1493, explorer Christopher Columbus found pineapples on Guadeloupe Island in the Caribbean. Pineapple on pizza soon followed..."
-keywords: "Pineapple, Pineapple Pizza, Pineapple House"
-email: "pineapple@example.com"
+author: "365ML HQ"
+tagline: "One small machine learning project a day"
+description: "Just a small site to keep me motivated with byte-sized projects in all data-related domains"
+keywords: "Machine learning"
+email: ""
 linkedin: "https://www.linkedin.com/"
 twitter: "https://twitter.com/"
 github: "https://github.com/"
 
 # Site config
-baseurl: "/pineapple"
+baseurl: ""
 highlighter: rouge
 sass:
   sass_dir: assets/scss
